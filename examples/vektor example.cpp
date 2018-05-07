@@ -29,8 +29,6 @@ vector<int> Parnocifreni(int a, int b)
     }
     
     /*
-    // nisam stigao provjeriti pocetnu cifru :(
-
     int test_var;
     
     for(int i = 0; i <= testni_vektor.size() - 1; i++)
